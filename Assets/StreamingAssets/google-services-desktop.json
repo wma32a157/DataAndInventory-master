@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075774133940",
+    "project_id": "firestore-prototype-131af",
+    "storage_bucket": "firestore-prototype-131af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075774133940:android:e1cf791548d1014a48a9e1",
+        "android_client_info": {
+          "package_name": "com.test.AngFire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075774133940-i8m5l8rpns1qiks4f5br8rqpjaf01ina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eP_jSMjTUfsYtZTrOAO3DdplQKPc8PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075774133940-i8m5l8rpns1qiks4f5br8rqpjaf01ina.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
